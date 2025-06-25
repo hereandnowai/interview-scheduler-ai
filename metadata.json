@@ -1,0 +1,6 @@
+{
+  "name": "Interview Scheduler AI",
+  "description": "An application to automate interview scheduling using AI-powered time slot matching, calendar integration mockups, and role-based dashboards for candidates, recruiters, and hiring managers.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
